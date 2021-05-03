@@ -1,0 +1,12 @@
+
+s
+java:S1104"VMake connection a static final constant or non-public and provide accessors if needed.(ıØÕá8©œùù’/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(õ†¨Äùÿÿÿÿ8Ë ú’/
+\
+java:S1118	":Add a private constructor to hide the implicit public one.(ãšö“ùÿÿÿÿ8Ú®öù’/
+M
+java:S1444"0Make this "public static connection" field final(ıØÕá8©œùù’/
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(¤òª£8Ë ú’/
+X	java:S125"<This block of commented-out lines of code should be removed.(ÆÂÖ²8ôßìş’/

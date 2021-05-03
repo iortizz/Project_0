@@ -1,0 +1,35 @@
+
+X
+java:S1141В"5Extract this nested try block into a separate method.(б╗в№∙    8ркл■Т/
+K
+java:S1068".Remove this unused "isEmployee" private field.(╦█еч8ркл■Т/
+v
+java:S1450"YRemove the "isEmployee" field and declare it as a local variable in the relevant methods.(╦█еч8ркл■Т/
+e
+java:S1192П"HDefine a constant instead of duplicating this literal "balance" 3 times.(ф─Н{8ркл■Т/
+o
+java:S3776t"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ж║Кб8ркл■Т/
+А
+java:S4087Ы"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Їъ┬Ь8ркл■Т/
+Q
+java:S1141e"5Extract this nested try block into a separate method.(а╡░8ркл■Т/
+r
+java:S2095Д"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(╡Ы·┴■    8ркл■Т/
+j
+java:S2095▀"GUse try-with-resources or close this "Statement" in a "finally" clause.(ї╜█╪■    8ркл■Т/
+K
+java:S1144∙"-Remove this unused private "addMoney" method.(ь▐ф╬8ркл■Т/
+K
+java:S1121X".Extract the assignment out of this expression.(╠дє╥8ркл■Т/
+\
+java:S1118":Add a private constructor to hide the implicit public one.(б▒№╒■    8╥сы°Т/
+j
+java:S2095╢"GUse try-with-resources or close this "Statement" in a "finally" clause.(ї╜█╪■    8ркл■Т/
+s
+java:S1192g"QDefine a constant instead of duplicating this literal " Was Successful!" 3 times.(░А▀д·    8фи┤ Т/
+А
+java:S4087б"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Їъ┬Ь8ркл■Т/
+q
+java:S2095}"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(╜иУ╨·    8ркл■Т/
+А
+java:S4087Ч"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Їъ┬Ь8ркл■Т/
