@@ -60,6 +60,16 @@ public class MenuDaoImp {
         log.info("0: Exit");
     }
 
+    public static void EmployeeMenu() {
+        log.info("Select an option below");
+        log.info("1: Make a Deposit");
+        log.info("2: Make a Withdrawal");
+        log.info("3: Get Balance");
+        log.info("4: Get All Accounts");
+        log.info("5: Get Account By ID");
+        log.info("0: Exit");
+    }
+
     public static int getUserInput() {
         do {
             log.info("Enter a Choice: ");
@@ -96,5 +106,4 @@ public class MenuDaoImp {
             throwables.printStackTrace();
         }
     }
-
 }

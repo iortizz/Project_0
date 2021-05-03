@@ -20,11 +20,10 @@ public class AccountDaoImp {
     private static String phone;
     private static String password;
     private static double currentBalance = 0;
-    private static boolean isEmployee;
+    private static boolean isEmployee = false;
 
 
     public static void createUser() throws SQLException {
-        Scanner in = new Scanner(System.in);
 
         log.info("Would You Like To Open a Checking or Savings Account?");
         setAccountType(in.nextLine());
@@ -172,7 +171,7 @@ public class AccountDaoImp {
         log.info("How much would you like to deposit?");
         double deposit = in.nextDouble();
         while ((deposit <= 0)) {
-            log.info("Please Enter Valid Deposit");
+            log.info("Please Enter Valid Deposit Greater Than Zero");
             deposit = in.nextDouble();
         }
 
@@ -211,8 +210,8 @@ public class AccountDaoImp {
             log.warn("Please Enter Valid Withdraw");
             withdraw = in.nextDouble();
         }
-        while ((withdraw < 0)) {
-            log.warn("You Cannot Withdraw a Negative Amount");
+        while ((withdraw <= 0)) {
+            log.warn("You Cannot Withdraw a Negative Amount or Zero");
             log.warn("Please Enter Valid Withdraw");
             withdraw = in.nextDouble();
         }
