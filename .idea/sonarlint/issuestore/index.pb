@@ -17,5 +17,3 @@ Q
 !src/main/java/dao/UserDaoImp.java,d\f\dfe2da4e759dd484f45ec9d1e103e0cdbad4f7ed
 Q
 !src/main/java/dao/MenuDaoImp.java,2\5\2536c895f1f67c59e20a0913e73118965c8c2242
-=
-appLogs.log.1,a\1\a1a8be0d0592f18ac3fe8068510158308ad292cb

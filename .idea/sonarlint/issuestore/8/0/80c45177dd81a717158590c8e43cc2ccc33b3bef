@@ -1,35 +1,35 @@
 
-e
-java:S1192"HDefine a constant instead of duplicating this literal "balance" 3 times.(äÄ{8±â•“/
 j
-java:S2095Ş"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8±â•“/
-r
-java:S2095ƒ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ›úÁşÿÿÿÿ8±â•“/
-{
-java:S1450"YRemove the "isEmployee" field and declare it as a local variable in the relevant methods.(â¼¨Ğûÿÿÿÿ8àª«ş’/
-K
-java:S1121W".Extract the assignment out of this expression.(Ì¤óÒ8±â•“/
-Q
-java:S1141d"5Extract this nested try block into a separate method.( µ°8±â•“/
-s
-java:S1192f"QDefine a constant instead of duplicating this literal " Was Successful!" 3 times.(°€ß¤úÿÿÿÿ8±â•“/
-€
-java:S4087š"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8±â•“/
+java:S2095µ"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8±â•“/
 \
 java:S1118":Add a private constructor to hide the implicit public one.(¡±üÕşÿÿÿÿ8Òáëø’/
 €
 java:S4087 "bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8±â•“/
-j
-java:S2095µ"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8±â•“/
-X
-java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8±â•“/
-q
-java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8±â•“/
-o
-java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†ºŠ¡8±â•“/
-K
-java:S1144ø"-Remove this unused private "addMoney" method.(ìŞäÎ8±â•“/
-P
-java:S1068".Remove this unused "isEmployee" private field.(â¼¨Ğûÿÿÿÿ8àª«ş’/
 €
 java:S4087–"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8±â•“/
+€
+java:S4087š"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(ôêÂœ8±â•“/
+{
+java:S1450"YRemove the "isEmployee" field and declare it as a local variable in the relevant methods.(â¼¨Ğûÿÿÿÿ8àª«ş’/
+j
+java:S2095Ş"GUse try-with-resources or close this "Statement" in a "finally" clause.(õ½ÛØşÿÿÿÿ8±â•“/
+e
+java:S1192"HDefine a constant instead of duplicating this literal "balance" 3 times.(äÄ{8±â•“/
+X
+java:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8±â•“/
+o
+java:S3776s"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(†ºŠ¡8±â•“/
+P
+java:S1068".Remove this unused "isEmployee" private field.(â¼¨Ğûÿÿÿÿ8àª«ş’/
+q
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8±â•“/
+Q
+java:S1141d"5Extract this nested try block into a separate method.( µ°8±â•“/
+K
+java:S1121W".Extract the assignment out of this expression.(Ì¤óÒ8±â•“/
+K
+java:S1144ø"-Remove this unused private "addMoney" method.(ìŞäÎ8±â•“/
+r
+java:S2095ƒ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(µ›úÁşÿÿÿÿ8±â•“/
+s
+java:S1192f"QDefine a constant instead of duplicating this literal " Was Successful!" 3 times.(°€ß¤úÿÿÿÿ8±â•“/

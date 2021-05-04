@@ -15,7 +15,7 @@ public class PostGresConnection {
         try {
             Class.forName("org.postgresql.Driver");
 //            String url = "jdbc:postgresql://localhost:5432/postgres";
-            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres", "postgres", "tameimpala0421");
+            connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/postgres", "postgres", "");
             if (connection != null) {
                 log.debug("Connected!");
             } else {
